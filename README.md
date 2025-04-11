@@ -1,4 +1,4 @@
-# Project Title
+# GYM Chatbot Using RAG Pipeline
 Here's a sample `README.md` content tailored to your project using **LLaMA 3.2**, **Python 3.12.7**, **Streamlit**, and **Ollama** for local inference:
 
 ---
